@@ -28,7 +28,7 @@ My studies have provided me with broad proficiency in the use of computer engine
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/></a>
-<!-- <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat&logo=firebase"/></a> -->
+<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat&logo=firebase"/></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/></a>
 <!-- <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white" /></a> -->
 <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat&logo=Keras&logoColor=white"/></a> -->
