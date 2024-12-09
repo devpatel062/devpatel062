@@ -3,7 +3,7 @@
 <p align="center"><a href="#"><img width=50% src="hello.gif"></a></p>
 <!-- <h6 align="center">Animation by <a href="https://dribbble.com/daniserpa" target="_blank">Daniela Serpa</a></h6> -->
 
-<p align="center"> <samp>First Year Graduate Science student , future Computer Engineer . My passion and interest in computer and the new technologies brought me into this field . 
+<p align="center"> <samp>First Year Computer Science Graduate student at Indiana University- Bloomington. My passion and interest in computer and the new technologies brought me into this field . 
 My studies have provided me with broad proficiency in the use of computer engineering methods, tools, software packages and techniques. Alongside this, I have also developed sound communication skills . As such, I am confident that I can make an instant impact in engineering roles.. </samp>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
