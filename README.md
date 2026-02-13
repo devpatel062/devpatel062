@@ -11,7 +11,7 @@ Full-Stack Engineer | AI Systems | Backend Architecture | Distributed Systems
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://leetcode.com/devpatel062/">
-    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
